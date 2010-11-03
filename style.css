@@ -22,13 +22,13 @@ div#header {
   height: 99px;
 }
 
+div#blog-title h1#blog-description {
+  margin-left: 0;
+}
+
 div#branding {
   padding-top: 25px;
   padding-bottom: 25px;
-}
-
-h1#blog-description {
-  margin-left: 25px !important;
 }
 
 div#primary {
