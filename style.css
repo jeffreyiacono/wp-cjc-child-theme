@@ -1,9 +1,11 @@
 /*
 Theme Name: cjc-customization
 Description: A Child Theme of Thematic
+Version: 1.0.0
+Author: CollegeJobConnect Management
 Template: thematic
 */
-@import url(../thematic/style.css);
+@import url(../cjc/style.css);
 
 /* CJC customizations */
 h2 a {
