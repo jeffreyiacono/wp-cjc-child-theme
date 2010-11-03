@@ -17,7 +17,7 @@ div#header {
 }
 
 #blog-title {
-  background: url(/images/blog-logo.png) no-repeat;
+  background: url(../cjc/blog-logo-small-new.png) no-repeat;
   text-indent: -9999px;
   height: 99px;
 }
