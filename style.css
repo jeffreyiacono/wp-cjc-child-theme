@@ -35,6 +35,15 @@ div#primary {
   border:none;
 }
 
+div#primary li.widget_text {
+  margin-bottom: 15px;
+}
+
+div#primary h3.widgettitle {
+  color: #333;
+  font-weight: bold;
+}
+
 div#facebook-like-box {
   text-align: center;
   margin-bottom: 20px !important;
