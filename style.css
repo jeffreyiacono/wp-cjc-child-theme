@@ -4,3 +4,75 @@ Description: A Child Theme of Thematic
 Template: thematic
 */
 @import url(../thematic/style.css);
+
+/* CJC customizations */
+h2 a {
+  color: #FF4B33 !important;
+}
+
+div#header {
+  background-color: #e5ecf3;
+}
+
+#blog-title {
+  background: url('blog-logo-small-new.png') no-repeat;
+  text-indent: -9999px;
+  height: 99px;
+}
+
+div#branding {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+h1#blog-description {
+  margin-left: 25px !important;
+}
+
+div#primary {
+  border:none;
+}
+
+div#facebook-like-box {
+  text-align: center;
+  margin-bottom: 20px !important;
+}
+
+div#footer {
+  background-color: #222;
+  color: #eee;
+}
+
+div#twitter-follow-us {
+  margin-bottom: 30px;
+  margin-left: 15px;
+  text-align: left;
+  font-size: 130%;
+}
+
+div#primary {
+  border:none;
+}
+
+div#facebook-like-box {
+  text-align: center;
+  margin-bottom: 20px !important;
+}
+
+div#footer {
+  background-color: #222;
+  color: #eee;
+}
+
+div#twitter-follow-us {
+  margin-bottom: 30px;
+  margin-left: 15px;
+  text-align: left;
+  font-size: 130%;
+}
+
+div#twitter-follow-us a {
+  text-decoration: none;
+  padding: 20px 0 20px 55px;
+  background: url(twitter-bird-o_normal.png) no-repeat 50% left;
+}
