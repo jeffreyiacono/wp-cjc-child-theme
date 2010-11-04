@@ -41,11 +41,14 @@ div#primary ul.cjc-social-link {
 }
 
 div#primary ul.cjc-social-link li a {
+  text-decoration: none;
   font-size:16px;
   padding-left: 22px;
   background-repeat: no-repeat;
   background-position: bottom left;
 }
+
+div#primary ul.cjc-social-link li a:hover { text-decoration: underline; }
 
 div#primary ul.cjc-social-link li a.twitter {
   background-image: url(../wp-cjc-child-theme/images/twitter_16.png);
