@@ -9,7 +9,7 @@ Template: thematic
 
 /* CJC customizations */
 h2 a {
-  color: #FF4B33 !important;
+  color: #ff8d23;
 }
 
 div#header {
@@ -33,6 +33,11 @@ div#branding {
 
 div#primary {
   border:none;
+}
+
+div#primary h3.widgettitle {
+  color: #333;
+  font-weight: bold;
 }
 
 div#primary ul.cjc-social-link { 
@@ -62,11 +67,6 @@ div#primary li.widget_text {
   margin-bottom: 15px;
 }
 
-div#primary h3.widgettitle {
-  color: #333;
-  font-weight: bold;
-}
-
 div#facebook-like-box {
   text-align: center;
   margin-bottom: 20px !important;
@@ -75,38 +75,4 @@ div#facebook-like-box {
 div#footer {
   background-color: #222;
   color: #eee;
-}
-
-div#twitter-follow-us {
-  margin-bottom: 30px;
-  margin-left: 15px;
-  text-align: left;
-  font-size: 130%;
-}
-
-div#primary {
-  border:none;
-}
-
-div#facebook-like-box {
-  text-align: center;
-  margin-bottom: 20px !important;
-}
-
-div#footer {
-  background-color: #222;
-  color: #eee;
-}
-
-div#twitter-follow-us {
-  margin-bottom: 30px;
-  margin-left: 15px;
-  text-align: left;
-  font-size: 130%;
-}
-
-div#twitter-follow-us a {
-  text-decoration: none;
-  padding: 20px 0 20px 55px;
-  background: url(twitter-bird-o_normal.png) no-repeat 50% left;
 }
