@@ -35,10 +35,21 @@ div#primary {
   border:none;
 }
 
-div#primary a.twitter {
+div#primary ul.cjc-social-link { margin-left: 0; }
+
+div#primary ul.cjc-social-link li a {
   font-size:16px;
   padding-left: 22px;
-  background: url(http://collegejobconnect.com/blog/wp-content/themes/wp-cjc-child-theme/images/twitter_16.png) bottom left no-repeat;
+  background-repeat: no-repeat;
+  background-position: bottom left;
+}
+
+div#primary ul.cjc-social-link li a.twitter {
+  background-image: url(../wp-cjc-child-theme/images/twitter_16.png);
+}
+
+div#primary ul.cjc-social-link li a.facebook {
+  background-image: url(../wp-cjc-child-theme/images/facebook_16.png);
 }
 
 div#primary li.widget_text {
