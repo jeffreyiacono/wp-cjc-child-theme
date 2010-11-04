@@ -45,7 +45,7 @@ div#primary ul.cjc-social-link li a {
   font-size:16px;
   padding-left: 22px;
   background-repeat: no-repeat;
-  background-position: bottom left;
+  background-position: top left;
 }
 
 div#primary ul.cjc-social-link li a:hover { text-decoration: underline; }
