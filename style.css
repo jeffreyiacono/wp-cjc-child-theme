@@ -35,7 +35,10 @@ div#primary {
   border:none;
 }
 
-div#primary ul.cjc-social-link { margin-left: 0; }
+div#primary ul.cjc-social-link { 
+  list-style: none;
+  margin-left: 0;
+}
 
 div#primary ul.cjc-social-link li a {
   font-size:16px;
