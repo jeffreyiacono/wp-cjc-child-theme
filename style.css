@@ -35,6 +35,12 @@ div#primary {
   border:none;
 }
 
+div#primary a.twitter {
+  font-size:16px;
+  padding-left: 22px;
+  background: url(http://collegejobconnect.com/blog/wp-content/themes/wp-cjc-child-theme/images/twitter_16.png) bottom left no-repeat;
+}
+
 div#primary li.widget_text {
   margin-bottom: 15px;
 }
